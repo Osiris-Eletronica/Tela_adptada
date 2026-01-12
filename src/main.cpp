@@ -1,3 +1,23 @@
+
+/*******************************************************************************
+ * PROJETO: Gerador de Funções 
+ * 
+ * FUNÇÃO: SENOIDAL, QUADRADA, TRIANGULO, DENTE DE SERRA
+ * 
+ * DESENVOLVEDOR: Osiris Silva
+ * 
+ * CARGO: Técnico em Eletrônica
+ * 
+ * DATA: 10/01/2026
+ * 
+ * HARDWARE: Tela TFT - ST7796 - Resolução: 480x320
+ * - Modelo: ESP WROOM 32 DEV KIT
+ * - Não conjugados
+ *
+ * NOTAS TÉCNICAS:
+ *
+ *******************************************************************************/
+
 #include <Arduino.h>
 #include <TFT_eSPI.h>
 #include <driver/dac.h>
